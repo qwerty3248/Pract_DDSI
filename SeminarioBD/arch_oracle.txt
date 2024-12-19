@@ -1,0 +1,5 @@
+
+Aqui se encuentra la carpeta de oracle donde estan los archivos
+ls /opt/oracle/
+
+
