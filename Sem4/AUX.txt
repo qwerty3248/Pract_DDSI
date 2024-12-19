@@ -1,3 +1,5 @@
+PARA INSTALAR LA BIBLIO DE PYTHON: pip install pymongo
+Si no deja una el --break-systemm-packacges
 Los dos primeros pasos son iguales para todos
 
 sudo apt-get install gnupg curl
